@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m CodeInfrastructure — a passionate Full-Stack Developer specializing in HTML, CSS, and JavaScript. I enjoy building clean, responsive web applications and turning ideas into scalable digital solutions. Always learning, always building.
+Hi, I’m CodeInfrastructure, a passionate Full-Stack Developer specializing in HTML, CSS, and JavaScript. I enjoy building clean, responsive web applications and turning ideas into scalable digital solutions. Always learning, always building.
 
 
 ## 🌐 Socials:
