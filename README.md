@@ -31,10 +31,3 @@
 
 
 
-
-
-
-
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFkdjNvNWkyaTExcGljMjlhODI5OTN3ZzhqdnExZHdqbmFmbHQxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-
