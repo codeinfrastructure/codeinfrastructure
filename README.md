@@ -5,7 +5,8 @@
 ###
 
 <p align="left"> 👋 Hi, I'm Codeinfrastructure | Junior Frontend Developer<br><br>📍 Based in The Netherlands | 🔍 Open for Collaboration & Hire<br><br> 🚀 About Me<br>I'm a beginner frontend developer passionate about building clean, responsive web interfaces. I'm currently expanding my skills in modern web development and looking for projects to collaborate on to gain real-world experience.<br><br> 💻 Tech Stack<br>Languages: HTML, CSS, JavaScript.<br> Tools: Git, GitHub, VS Code.<br><br> 🎯 Looking For<br>Open source projects to contribute to<br>Collaborative learning opportunities<br>Junior frontend developer positions<br>Freelance/contract work<br><br>🌱 My Goals<br>Build a strong portfolio of projects<br>Contribute to meaningful open source projects<br>Master modern frontend frameworks<br>Connect with other developers in the Netherlands<br><br>📍 Location<br>Based in The Netherlands (Open to remote work/opportunities)<br><br>---<br><br>⭐Every expert was once a beginner. Currently on my journey from learning to building.<br><br>📅 Available for: Part-time positions • Freelance projects • Open source contributions</p>
-<img width="181" height="766" alt="Screenshot 2026-01-29 223932" src="https://github.com/user-attachments/assets/a1e0c047-aeb4-4e7d-ae9c-09a23f2f6880" />
+<img width="181" height="767" alt="Screenshot 2026-01-29 223932" src="https://github.com/user-attachments/assets/c285c2ad-9b2f-476e-b913-ef3c672abb19" />
+
 
 
 
